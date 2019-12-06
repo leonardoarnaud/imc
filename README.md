@@ -1,6 +1,6 @@
 # imc_app
 
-A new Flutter project.
+Projeto Flutter para fins de estudo. Calcula o IMC de uma pessoa baseado no seu peso e altura.
 
 ## Getting Started
 
